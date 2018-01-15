@@ -1,0 +1,7 @@
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\bin\Debug\Math7.exe.config
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\bin\Debug\Math7.exe
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\bin\Debug\Math7.pdb
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\obj\Debug\Math7.csprojResolveAssemblyReference.cache
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\obj\Debug\Math7.csproj.CoreCompileInputs.cache
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\obj\Debug\Math7.exe
+C:\Users\Cranky Albatross\source\repos\Math7\Math7\obj\Debug\Math7.pdb
